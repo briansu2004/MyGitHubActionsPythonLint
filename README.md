@@ -6,11 +6,22 @@ My GitHub Actions Python Lint app
 
 To run with your own configuration for a linter, copy the relevant TEMPLATE configuration file for the linter you are using from this repository into the .github/linters/ folder in your own repository, and then edit it to modify, disable - or even add - rules and configuration to suit how you want your code checked.
 
+i.e.
+
+~/.github/linters/.markdown-lint.yml
+
+```yaml
+MD013:
+  line_length: 2000 # Line length 80 is far to short
+```
+
 ## Screenshot
 
 ![01](image/README/01.png)
 
 ![02](image/README/02.png)
+
+![03](image/README/03.png)
 
 ## Troubleshooting
 
