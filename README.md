@@ -2,6 +2,10 @@
 
 My GitHub Actions Python Lint app
 
+## Customize linter
+
+To run with your own configuration for a linter, copy the relevant TEMPLATE configuration file for the linter you are using from this repository into the .github/linters/ folder in your own repository, and then edit it to modify, disable - or even add - rules and configuration to suit how you want your code checked.
+
 ## Screenshot
 
 ![01](image/README/01.png)
