@@ -7,3 +7,7 @@ My GitHub Actions Python Lint app
 ```
 Failed to view version file:[/action/lib/functions/linterVersions.txt]
 ```
+
+```
+This workflow has no runs yet.
+```
