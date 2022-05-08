@@ -2,6 +2,12 @@
 
 My GitHub Actions Python Lint app
 
+## Screenshot
+
+![01](image/README/01.png)
+
+![02](image/README/02.png)
+
 ## Troubleshooting
 
 ```bash
